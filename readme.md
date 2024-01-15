@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-with-react-3DiPMwPp1N)
 - Live Site URL: [Netlify](https://fm-coding-bootcamp-testimonials.netlify.app)
 
 ## My process
